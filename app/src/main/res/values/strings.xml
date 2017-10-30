@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_one">Which of these games was released in 2007?</string>
+    <string name="question_one_option_a">Uncharted 2: Among Thieves</string>
+    <string name="question_one_option_b">BioShock</string>
+    <string name="question_one_option_c">Portal 2</string>
+    <string name="question_two">In what year was Final Fantasy VIII originally released?</string>
+    <string name="question_three">Which of these games did Rockstar Games publish?</string>
+    <string name="question_three_option_a">Grand Theft Auto</string>
+    <string name="question_three_option_b">Monster Truck Madness 64</string>
+    <string name="question_three_option_c">Bully</string>
+    <string name="question_four">Pyramid Head appears in which series?</string>
+    <string name="dead_space">Dead Space</string>
+    <string name="resident_evil">Resident Evil</string>
+    <string name="silent_hill">Silent Hill</string>
+    <string name="pyramid_head">Pyramid Head</string>
+    <string name="submit">submit</string>
+    <string name="yyyy">YYYY</string>
+</resources>
